@@ -51,6 +51,8 @@ Os dados utilizados são do **dataset Olist** (marketplace brasileiro) e incluem
 
 ## 🔄 Pipeline de Execução
 
+![Pipeline Medalhão](pipeline_medalhao.png)
+
 A pipeline é orquestrada pelo Databricks Workflow (`pipeline_medalhao.yaml`) e executa diariamente às 13h:
 
 ```
